@@ -44,8 +44,8 @@ const ImageGallery = () => {
                 </div>
 
                 <div className='link'>
-                    <a href="/">Sign In</a>
-                    <a href="/">Sign Up</a>
+                    <a href="/auth/login">Login</a>
+                    <a href="/auth/register">Sign Up</a>
                 </div>
             </div>
 

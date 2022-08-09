@@ -1,4 +1,4 @@
-# le-stud, Sample react.js image search with |API Task
+# le-stud, Sample react.js image search with API Task
 
 
 #### live 
